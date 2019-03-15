@@ -1,0 +1,2 @@
+vous pouvez créer une nouvelle branche, sélectionnez cette option et définissez un nom de
+branche, pour moi, cela sera pull-sample.
