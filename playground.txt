@@ -1,9 +1,6 @@
 formation git has begin. 
 this is the first cause hello world was not available.
 how are you my friend
-<<<<<<< HEAD
 this is the line i am writing with the master branch
-
-=======
 i am getting used to it.
->>>>> third
+
